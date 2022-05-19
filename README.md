@@ -1,4 +1,8 @@
-# Bootstrap Multi step form  with progress bar
+# Bootstrap Multi step form  with progress bar 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/emrankhan016/pen/vdNzXm](https://codepen.io/emrankhan016/pen/vdNzXm).
+![Image alt text](https://i.ibb.co/ggtrBNc/demo.png "Main Screen")
 
+This is an example of a multi-step form  with an animated progress bar, designed using CSS, HTML, JavaScript, and Bootstrap framework. 
+Click [Here](https://codepen.io/emrankhan016/full/vdNzXm) to see demo and edit view.
+
+Feel free to create an issue if you find any bug. You can also contribute if you want to. :)
